@@ -16,7 +16,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
-        // Initialize Room (Quick & Dirty for Single Activity without Hilt)
         val db = Room.databaseBuilder(
             applicationContext,
             AppDatabase::class.java, "connectup-db"

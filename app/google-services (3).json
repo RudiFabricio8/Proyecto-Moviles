@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68904367076",
+    "project_id": "connectup-87b30",
+    "storage_bucket": "connectup-87b30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68904367076:android:b9c23d3c15f19086f98df1",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFc367D22cTl_5kGfZRchKWfC1girdRA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
